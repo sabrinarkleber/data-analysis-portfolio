@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Data Analysis Portfolio
 
 ## Projects
@@ -13,3 +14,7 @@ Tools: Python, Pandas, Requests, Matplotlib
 ### 3. Movie Ratings Analysis
 Analyzed movie rating datasets to find trends by genre.
 Tools: Python, Pandas
+=======
+# data-analysis-portfolio
+My beginner data analysis projects in Python
+>>>>>>> ee2079686ccf2e13618828fe3788b6319cc1d6dd
