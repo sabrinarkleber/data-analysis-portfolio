@@ -1,6 +1,6 @@
 # Healthcare KPI Analysis
 
-This project demonstrates my ability to analyze healthcare operational data and visualize key performance indicators (KPIs) to support data-driven decision-making. The analysis focuses on metrics that influence patient outcomes, operational efficiency, and revenue performance.  
+This project demonstrates my ability to analyze healthcare operational data and visualize key performance indicators (KPIs) to support data-driven decision-making. The analysis focuses on metrics that influence patient outcomes, operational efficiency, and revenue performance — skills directly relevant to a Junior Data Analyst role at Calibrate.
 
 ## Key Highlights
 
@@ -10,19 +10,19 @@ This project demonstrates my ability to analyze healthcare operational data and 
 
 ## KPI Chart
 
-The chart below visualizes the main KPIs, providing a clear snapshot of operational performance:
+The chart below presents a concise visual summary of the main KPIs:
 
-![Healthcare KPI Chart](healthcare_kpi_chart.png)
+![Healthcare KPI Chart](healthcare-kpi-analysis/kpi_chart.png)
 
-*Interpretation:* The chart highlights which areas are performing well and which require attention, helping to guide strategic decisions.
+*Interpretation:* The chart highlights which areas are performing well and which require attention, providing actionable insights to guide operational and clinical decisions.
 
 ## Skills Demonstrated
 
-- Data manipulation and cleaning using **pandas** in Python.  
+- Data cleaning and manipulation using **pandas** in Python.  
 - Data visualization with **matplotlib**, producing clear and concise charts.  
-- Communicating insights effectively to support decision-making.  
+- Communicating insights effectively for cross-functional stakeholders.  
 - Preparing portfolio-ready materials suitable for professional review.
 
 ---
 
-*This project illustrates my ability to transform raw data into actionable insights — aligning with Calibrate’s mission to use data to improve metabolic health outcomes.*
+*This project demonstrates my ability to turn raw data into actionable insights, aligning with Calibrate’s mission to improve metabolic health outcomes using data-driven decisions.*
