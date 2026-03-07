@@ -1,20 +1,28 @@
-<<<<<<< HEAD
-# My Data Analysis Portfolio
+# Healthcare KPI Analysis
 
-## Projects
+This project demonstrates my ability to analyze healthcare operational data and visualize key performance indicators (KPIs) to support data-driven decision-making. The analysis focuses on metrics that influence patient outcomes, operational efficiency, and revenue performance.  
 
-### 1. Sales Analysis
-Analyzed product sales to identify top-performing products.
-Tools: Python, Pandas, Matplotlib
+## Key Highlights
 
-### 2. Cryptocurrency Price Analysis
-Pulled Bitcoin price data from API and calculated trends.
-Tools: Python, Pandas, Requests, Matplotlib
+- **Patient Visits & Follow-ups:** Evaluated engagement trends to optimize scheduling and care delivery.  
+- **Satisfaction:** Measured client satisfaction scores to identify opportunities for improvement.  
+- **Revenue & Retention:** Monitored financial performance and member retention to support business strategy.
 
-### 3. Movie Ratings Analysis
-Analyzed movie rating datasets to find trends by genre.
-Tools: Python, Pandas
-=======
-# data-analysis-portfolio
-My beginner data analysis projects in Python
->>>>>>> ee2079686ccf2e13618828fe3788b6319cc1d6dd
+## KPI Chart
+
+The chart below visualizes the main KPIs, providing a clear snapshot of operational performance:
+
+![Healthcare KPI Chart](healthcare_kpi_chart.png)
+
+*Interpretation:* The chart highlights which areas are performing well and which require attention, helping to guide strategic decisions.
+
+## Skills Demonstrated
+
+- Data manipulation and cleaning using **pandas** in Python.  
+- Data visualization with **matplotlib**, producing clear and concise charts.  
+- Communicating insights effectively to support decision-making.  
+- Preparing portfolio-ready materials suitable for professional review.
+
+---
+
+*This project illustrates my ability to transform raw data into actionable insights — aligning with Calibrate’s mission to use data to improve metabolic health outcomes.*
